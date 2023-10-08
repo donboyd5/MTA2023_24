@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+_book/
+*_files/
+_freeze/
+.quarto/
+data/
+documents/
+
+
+*.rds

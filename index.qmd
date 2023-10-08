@@ -1,0 +1,91 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# Project overview {.unnumbered}
+
+## Goals
+
+-   Potential new revenue sources for capital -- prepare to talk around October 16
+
+-   PMT receipts -- prepare to talk around end of October (November financial plan is November 20)
+
+## Links
+
+-   This project
+
+    -   [Web page](https://boyd-mta202324.netlify.app)
+
+    -   [Google sheet](https://docs.google.com/spreadsheets/d/1AeKrFtRgmIrbwgCj8bRTBnwVM5TjfZRJIeJUJN2SM5k/edit?usp=sharing)
+
+
+<!-- To embed a Google sheet:
+File/Share/Publish to web
+Entire document
+Embed
+
+copy the full url into an html code block, as below
+
+-->
+
+And now the google sheet
+
+
+```{=html}
+<iframe width="780" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSxmp_WzP5yIVTAxy2_RmsY83qiiYCsI1jpqltDL9cBhMckdsj3Mkg3EjOqN_EgslC5-MQxa_6LMuNa/pubhtml?widget=true&amp;headers=false"></iframe>
+```
+
+
+-   Two websites from the PCAC (Permanent Citizens Advisory Committee to the MTA)
+
+    -   [For the fiscal cliff](https://pcac.org/report/filling-the-operating-gap-a-funding-tool/)
+
+    -   [For the 2020-24 capital program](https://www.pcac-mtafundingtool.org/the-tool.html)
+
+-   PMT
+
+    -   [Publication 420](https://www.tax.ny.gov/pdf/publications/mctmt/pub420.pdf)
+
+-   [Prior project](https://mta-baseline.netlify.app/)
+
+## 2023-10-04 Call with Steve Winslow
+
+-   Focus in the short-term on proposals in one-house bills
+
+## 2023-09-06 Kickoff call
+
+### Potential new revenue sources for capital
+
+-   Examine sources elsewhere
+
+-   Interesting new revenue sources
+
+-   1-house bills from last year (for any purpose) -- e.g., package tax
+
+-   IBO
+
+-   Internet marketplace act - is actual revenue \> fixed amounts; if more, how much is attributable to the IMA?
+
+-   high level - amounts will be large -- e.g., 2020-2024 new revenue sources supported \$25b of bonding - annual amounts were:
+
+    -   \$1b congestion
+
+    -   \$300m sales tax IMA
+
+    -   \$300m mansion tax
+
+### PMT receipts
+
+-   No major changes to estimates for this year unless something big is going on
+
+-   What new information will we have? (1) monthly receipts, wage and self-employment taxes, (2) NYS and NYC PIT withholding, (3) wages, (4) employment and other econ data
+
+-   How are collections relative to expectations
+
+-   How is implementation going
+
+### Next steps
+
+-   Check-in call Oct 16, 2023 (time TBD)

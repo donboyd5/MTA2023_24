@@ -1,0 +1,15 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# Payroll mobility tax introduction
+
+Email from Steve Wislo 9/6/2023:
+
+> I looked for updated PMT publications. To summarize, there is not a new formal publication (the old one which is available on the website is Publication 420: https://www.tax.ny.gov/pdf/publications/mctmt/pub420.pdf), but there is a big disclaimer on the front page that it will soon be outdated, so I imagine a new one will be posted soon.
+>
+> There is guidance on the tax website that covers the changes for employers only, and matches the legislation in terms of timing of the increased rates, and the rates themselves. I spoke with Avoline and she said the large employers pay the PMT monthly, so we should be seeing an increase to revenues now. Some smaller employers pay quarterly (these employers' first PMT payment at the higher rate will be by October 31). For the self-employed, it's quarterly estimate of the full year.
+>
+> Kevin and Jai, the one thing is that I did not see any guidance for is the increase for self-employed in NYC for tax year starting 1/1/2023. Maybe it's worth pinging the State to see how they are going to handle this given the self-employed make estimated PMT payments throughout 2023, but I do not see the guidance (0.34% to 0.47% for city self-employed in 2023) on the website or in the Publication, that matches what's in the legislation.
